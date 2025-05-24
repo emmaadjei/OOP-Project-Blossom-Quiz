@@ -37,7 +37,7 @@ The Blossom Quiz Game is an interactive, Python-based trivia challenge designed 
 
 ### Future Improvements
 
-- Potential enhancements include:
+ Potential enhancements include:
 
 - Adding more question categories.
 
